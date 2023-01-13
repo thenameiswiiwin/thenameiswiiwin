@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Huy Nguyen - @thenameiswiiwin
 - 👀 I’m interested in frontend development including Neovim, JavaScript, TypeScript, React, NextJS, Tailwind, etc...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning prisma, and trpc for fullstack development.
 - 📫 How to reach me 
 - Email - huyn.nguyen95@gmail.com
 - Linkedin - https://www.linkedin.com/in/thenameiswiiwin/
